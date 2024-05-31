@@ -1,5 +1,5 @@
 name: node-docker-ci 
-on:
+on: 
   push:
     branches:
       - 'master'
